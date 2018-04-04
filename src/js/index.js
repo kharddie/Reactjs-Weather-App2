@@ -13,6 +13,5 @@ console.log(ENVPROD);//working
 
 
 const app = document.getElementById('app');
-
 ReactDOM.render( <App> </App>,app);
 
