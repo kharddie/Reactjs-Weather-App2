@@ -1,0 +1,11 @@
+{
+    "presets": [
+        "env",
+        "react",
+        "stage-2"
+    ],
+    "plugins": [
+        "transform-regenerator",
+        "transform-class-properties"
+    ]
+}
